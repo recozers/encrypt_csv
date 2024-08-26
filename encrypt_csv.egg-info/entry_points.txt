@@ -1,0 +1,2 @@
+[console_scripts]
+encrypt-csv = encrypt_csv.cli:main

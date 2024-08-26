@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: encrypt_csv
+Version: 0
+Summary: A simple command-line tool to encrypt columns in a CSV file.
+Home-page: https://github.com/yourusername/encrypt_csv
+Author: Stuart Bladon
+Author-email: stuart.bladon@duke.edu
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
